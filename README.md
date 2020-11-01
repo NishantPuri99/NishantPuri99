@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ### Welcome to Nishant's Github Profile Page! 😎<br>
+
+![Nishant's github stats](https://github-readme-stats.vercel.app/api?username=NishantPuri99&show_icons=true&theme=synthwave)
+<br>
 I am a budding <i>Malware Analyst</i>🦠 and an <i>Aspiring Ethical Hacker</i>💻 and <i>Cyber-Security Researcher</i>🧐.<br>
 I am an Incoming SWE Intern @Microsoft💻💯.<br>
 I am a Beta-Level Microsoft Learn Student Ambassador🔥as well and the Host🎤 of the <a href="https://www.youtube.com/channel/UC0gxqDmACQ4j4G4OVvyf5eQ">Talking Tech with PEC ACM Podcast</a> !<br>

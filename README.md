@@ -5,7 +5,7 @@
 ![Nishant's github stats](https://github-readme-stats.vercel.app/api?username=NishantPuri99&show_icons=true&theme=synthwave)
 <br>
 I am a budding <i>Malware Analyst</i>🦠 and an <i>Aspiring Ethical Hacker</i>💻 and <i>Cyber-Security Researcher</i>🧐.<br>
-I am an Incoming SWE Intern @Microsoft💻💯.<br>
+I am an SWE Intern @Microsoft💻💯.<br>
 I am a Beta-Level Microsoft Learn Student Ambassador🔥as well and the Host🎤 of the <a href="https://www.youtube.com/channel/UC0gxqDmACQ4j4G4OVvyf5eQ">Talking Tech with PEC ACM Podcast</a> !<br>
 <br>
 A little bit about me<br>
@@ -18,6 +18,6 @@ A little bit about me<br>
 - ⚡ Fun fact: I love Basketball🏀, BeatBoxing🎤, and Marathons🏃‍♂️<br>
 
 My Socials are highlighted here<br>
-Twitter <a href="https://twitter.com/nishant_puri_99">here</a> 🐦 and LinkedIn <a href="https://www.linkedin.com/in/nishant-puri/">here</a> 🕴🏼
+LinkedIn <a href="https://www.linkedin.com/in/nishant-puri/">here</a> 🕴🏼
 
 If you like my work please don't forget to give me a follow!<br>
